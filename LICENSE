@@ -19,3 +19,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+Additional Notice:
+This MIT license applies ONLY to the deployment scripts, OOBE initialization scripts
+and documentation stored within this repository.
+It does NOT apply to the CDEBOS system image file, which is distributed separately
+and carries its own independent license terms.
